@@ -8,7 +8,7 @@ public class Conexao {
 
     public Connection conexao;
 
-    public String url = "jdbc:mysql://localhost:3306/stockPro_plus_sales_db";
+    public String url = "jdbc:mysql://localhost:3306/stock_pro_plus_sales_db";
     public String user = "root";
     public String password = "root";
 
