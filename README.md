@@ -1,14 +1,15 @@
-StockPro - Gerenciador de estoques
+# StockPro - Gerenciador de estoques
 
-Descrição
+ Descrição
 
-O Projeto-StockPro é um software de controle de estoque desenvolvido como parte do curso de programação do SENAC. O objetivo do projeto é fornecer uma solução eficiente para gerenciar o inventário de uma empresa, acompanhando entradas, saídas e o nível de estoque de produtos.
+StockPro é um software de controle de estoque desenvolvido como parte do curso de programação do SENAC. 
+O objetivo do projeto é fornecer uma solução eficiente para gerenciar o inventário de uma empresa, acompanhando entradas, saídas e o nível de estoque de produtos.
 
 Tecnologias Utilizadas
 
     Linguagem de Programação: Java
     Banco de Dados: MySQL
-
+    
 Funcionalidades
 
     Cadastro de Produtos: Adicionar e remover produtos no estoque.
@@ -20,7 +21,7 @@ Instalação
 
     Instale o JRE:
 
-    Certifique-se de que o JRE está instalado no PC. Você pode baixar a versão mais recente do JRE do site oficial da Oracle.
+    Certifique-se de que o JRE está instalado no PC. Você pode baixar a versão mais recente do JRE do [site oficial da Oracle](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR)
 
 Como Usar
 
