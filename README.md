@@ -23,10 +23,25 @@ O objetivo do projeto é fornecer uma solução eficiente para gerenciar o inven
     <br>
 
 ## Instalação 
- 
-   Instale o JRE:
+ **Requisitos**
 
-   Certifique-se de que o JRE está instalado no PC. Você pode baixar a versão mais recente do JRE visite o <a href="https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR">site oficial da Oracle</a>.
+   Java Development Kit (JDK): versão 8 ou superior.
+   MySQL: versão 5.7 ou superior.
+
+Passos para Instalação
+
+   Clone o repositório:
+
+   git clone https://github.com/seu-usuario/Projeto-StockPro.git
+
+Importe o projeto em sua IDE de preferência (Netbeans, Eclipse, etc...).
+
+Configure o banco de dados MySQL:
+
+   Crie um banco de dados chamado stockpro.
+   Importe o script SQL localizado em src/Scripts para criar o banco e as tabelas necessárias.
+
+Compile e execute o projeto a partir da sua IDE.
  
  ## Como Usar
 
