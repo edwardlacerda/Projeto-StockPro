@@ -38,8 +38,8 @@ O objetivo do projeto é fornecer uma solução eficiente para gerenciar o inven
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
-Contato
+Este projeto está licenciado sob a Licença MIT - veja o arquivo <a href="https://github.com/edwardlacerda/Projeto-StockPro/blob/main/LICENSELICENSE">LICENSE<a/>
+<br>
 
 ## Para mais informações, entre em contato:
 
