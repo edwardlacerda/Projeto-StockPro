@@ -45,7 +45,7 @@ Compile e execute o projeto a partir da sua IDE.
  
  ## Como Usar
 
-   Dashboard: Navegue pelo painel principal para acessar as funcionalidades de cadastro, controle de estoque e geração de relatórios.
+   Dashboard: Navegue pelo painel principal para acessar as funcionalidades de cadastro, controle de estoque e venda.
    <br>
    Cadastro de Produtos: Adicione novos produtos ou remova produtos existentes.<br>
    Movimentações: Registre entradas e saídas de produtos no estoque.<br>
