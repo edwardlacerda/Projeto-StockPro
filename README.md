@@ -32,7 +32,7 @@ Passos para Instalação
 
    Clone o repositório:
 
-   git clone https://github.com/seu-usuario/Projeto-StockPro.git
+   git clone https://github.com/edwardlacerda/Projeto-StockPro.git
 
 Importe o projeto em sua IDE de preferência (Netbeans, Eclipse, etc...).
 
