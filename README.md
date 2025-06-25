@@ -2,7 +2,7 @@
 
  Descrição
 
-StockPro é um software de controle de estoque desenvolvido com o objetivo de fornecer uma solução eficiente para gerenciar o inventário de uma empresa, acompanhando entradas, saídas e o nível de estoque de produtos.
+StockPro é um software de controle de estoque desenvolvido com o objetivo de fornecer uma solução eficiente para gerenciar o inventário da sua empresa, acompanhando entradas, saídas e o nível de estoque de produtos.
 
 ## Tecnologias Utilizadas
 
